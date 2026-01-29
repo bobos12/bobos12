@@ -1,7 +1,11 @@
 # Ahmed Sharaf Portfolio
 
-Hi! I’m Ahmed, a **Frontend-Focused Full-Stack Developer** specializing in **React, Next.js, TypeScript**, and **MERN stack**.  
-I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
+Hi! I'm Ahmed 👋  
+Frontend-Focused Full-Stack Developer specializing in **React, Next.js, TypeScript, and the MERN stack**.
+
+I create scalable, high-performance web applications and modern user interfaces with strong attention to accessibility and UX.  
+My experience includes AI-powered platforms, booking systems, and SaaS products — transforming complex requirements into elegant technical solutions.
+
 
 ---
 
