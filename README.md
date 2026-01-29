@@ -27,7 +27,7 @@ I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
 - Next.js SSR, JWT authentication, role-based access control.
 - Integrated backend APIs with MongoDB and Express.
 - **[GitHub](https://github.com/bobos12/booooooooking)**  
-![LamaBooking](https://github.com/bobos12/ahmed-portfolio/blob/main/lamabooking.png)
+![LamaBooking](https://github.com/bobos12/ahmed-portfolio/blob/main/LamaBooking.png)
 
 ---
 
