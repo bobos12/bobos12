@@ -27,7 +27,7 @@ I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
 - Next.js SSR, JWT authentication, role-based access control.
 - Integrated backend APIs with MongoDB and Express.
 - **[GitHub](https://github.com/bobos12/booooooooking)**  
-![LamaBooking](https://github.com/bobos12/ahmed-portfolio/blob/main/portfolio.png)
+![LamaBooking](https://github.com/bobos12/ahmed-portfolio/blob/main/lamabooking.png)
 
 ---
 
@@ -43,7 +43,7 @@ I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
 - React + Tailwind CSS + TMDB API.
 - Browse, search, explore trending movies with smooth UI.
 - **[Live Demo](https://mooviemood.vercel.app/)** | **[GitHub](https://github.com/bobos12/MOVIES-FLEX)**  
-![Movies Flex](https://github.com/bobos12/ahmed-portfolio/blob/main/moviemood.png)
+![Movies Flex](https://github.com/bobos12/ahmed-portfolio/blob/main/MovieMood.png)
 
 ---
 
