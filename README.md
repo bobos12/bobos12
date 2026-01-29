@@ -11,7 +11,7 @@ I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
 - Full-stack MERN portfolio showcasing projects, skills, and contact forms.
 - Responsive and interactive design with smooth animations and fast load times (+30%).
 - **[Live Demo](https://portfolio-1-p8ma.vercel.app/)** | **[GitHub](https://github.com/bobos12/portfolio_1)**  
-![ShopSmart](https://via.placeholder.com/600x200?text=ShopSmart+Screenshot)
+![Portfolio](https://github.com/bobos12/ahmed-portfolio/blob/main/portfolio.png)
 
 ---
 
@@ -19,7 +19,7 @@ I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
 - AI-powered assistant using Hugging Face + React + MongoDB.
 - Modular, scalable frontend architecture.
 - **[GitHub](https://github.com/bobos12/ELITE-GPT)**  
-![ELITE GPT](https://via.placeholder.com/600x200?text=ELITE+GPT+Screenshot)
+![ELITE GPT](https://github.com/bobos12/ahmed-portfolio/blob/main/Elite.png)
 
 ---
 
@@ -27,7 +27,7 @@ I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
 - Next.js SSR, JWT authentication, role-based access control.
 - Integrated backend APIs with MongoDB and Express.
 - **[GitHub](https://github.com/bobos12/booooooooking)**  
-![LamaBooking](https://via.placeholder.com/600x200?text=LamaBooking+Screenshot)
+![LamaBooking](https://github.com/bobos12/ahmed-portfolio/blob/main/portfolio.png)
 
 ---
 
@@ -35,7 +35,7 @@ I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
 - Pixel-perfect, modern landing page.
 - Fully responsive with latest frontend trends.
 - **[Live Demo](https://gpt-3-two-theta.vercel.app/)** | **[GitHub](https://github.com/bobos12/gpt_3)**  
-![GPT-3 Landing](https://via.placeholder.com/600x200?text=GPT-3+Landing+Screenshot)
+![GPT-3 Landing](https://github.com/bobos12/ahmed-portfolio/blob/main/gpt3.png)
 
 ---
 
@@ -43,7 +43,7 @@ I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
 - React + Tailwind CSS + TMDB API.
 - Browse, search, explore trending movies with smooth UI.
 - **[Live Demo](https://mooviemood.vercel.app/)** | **[GitHub](https://github.com/bobos12/MOVIES-FLEX)**  
-![Movies Flex](https://via.placeholder.com/600x200?text=Movies+Flex+Screenshot)
+![Movies Flex](https://github.com/bobos12/ahmed-portfolio/blob/main/moviemood.png)
 
 ---
 
