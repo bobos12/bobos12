@@ -7,10 +7,10 @@ I build **scalable web apps**, SaaS platforms, and **pixel-perfect modern UIs**.
 
 ## 🚀 Featured Projects
 
-### **ShopSmart — E-Commerce Platform**
-- Full-stack MERN system: products, cart, orders, Stripe payments.
-- Optimized load time and performance (+35%), accessible UI (WCAG/ARIA).
-- **[Live Demo](https://your-live-link.com)** | **[GitHub](https://github.com/bobos12/ShopSmart)**  
+### **Ahmed Portfolio — Personal Website**
+- Full-stack MERN portfolio showcasing projects, skills, and contact forms.
+- Responsive and interactive design with smooth animations and fast load times (+30%).
+- **[Live Demo](https://portfolio-1-p8ma.vercel.app/)** | **[GitHub](https://github.com/bobos12/portfolio_1)**  
 ![ShopSmart](https://via.placeholder.com/600x200?text=ShopSmart+Screenshot)
 
 ---
